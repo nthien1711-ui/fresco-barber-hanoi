@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nthien1711-ui.github.io/fresco-barber-hanoi/sitemap.xml
